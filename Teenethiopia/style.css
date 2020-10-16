@@ -1,0 +1,24 @@
+.pharagraph{background-color: bisque;
+width:500px;
+position:absolute;
+top:200px;
+left:350px;
+padding-left:20px;
+font-family: Gabriola;
+}
+.header{color:crimson;
+position:absolute;
+left:380px;
+top:20px;
+}
+.img{position:relative;
+top:450px;
+left:900px;}
+.link{position:relative;
+top:340px;
+left:400px;}
+.socialmedia{position:absolute;
+top:150px;
+left:570px;}
+
+
